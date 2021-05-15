@@ -1,0 +1,12 @@
+SUDO_ID = {358165791,640851355,738053841} --آیدی سودو های ربات (ربات cli , api  قرار بدید)
+Full_Sudo = {358165791} -- آیدی سودو اصلی
+TD_ID = 1846248575 -- آیدی ربات
+Sudoid = 358165791 -- آیدی سودو اصلی
+BotHelper = 738053841 -- آیدی هلپر
+UserBotHelper = '@LOCKCHTESLAROBOT' -- یوزرنیم هلپر
+LinkSuppoRt = 'https://t.me/joinchat/Kx0_LcmAm54yNjFk' -- لینک گروه ساپورت
+UserSudo = '@refigh_heh' -- یوزرنیم سازنده
+PvUserSudo = '@refigh_heh' -- پیام رسان سازنده
+Channel = '@iranize_link' -- یوزرنیم کانال 
+ChannelInline = 'ianize_link' --یوزنیم کانال بدون @
+token = '1846248575:AAESnYnWZC2cnhMGL9ammmUqL5BoeLoXTm4' -- توکن ربات api
